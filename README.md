@@ -1,2 +1,7 @@
 # Museek
-Museek app complte code, im am setting this up to let others recommend fixes and anything else that they would like to see
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
